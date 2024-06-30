@@ -1,6 +1,5 @@
 
 # **IMAGE CLASSIFICATION OF CHEST X-RAY IMAGES FOR PNEUMONIA DETECTION**
-![image](https://github.com/itsyourgirlnicky/Chest-Xray/assets/74757320/0713ae38-d3b6-4c13-b0d1-40ca2ea104c0)
 
 # **INTRODUCTION**
 The "Large Dataset of Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images" is a comprehensive collection of medical images, published on June 2, 2018, by contributors Daniel Kermany, Kang Zhang, and Michael Goldbaum. This dataset, now in its third version, aims to support advancements in medical diagnosis through deep learning. It includes thousands of validated images, crucial for developing and testing algorithms that can identify and diagnose medical conditions from OCT and Chest X-Ray images, thus enhancing the accuracy and efficiency of medical diagnostics.The readme file in the dataset zip gives a detailed information on how to set up the data provided 
