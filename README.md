@@ -1,6 +1,8 @@
 
 # **IMAGE CLASSIFICATION OF CHEST X-RAY IMAGES FOR PNEUMONIA DETECTION**
 
+![image](https://github.com/itsyourgirlnicky/Chest-Xray/assets/74757320/bd475996-d2e8-4141-aab8-bd0d8a372c18)
+
 # **INTRODUCTION**
 The "Large Dataset of Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images" is a comprehensive collection of medical images, published on June 2, 2018, by contributors Daniel Kermany, Kang Zhang, and Michael Goldbaum. This dataset, now in its third version, aims to support advancements in medical diagnosis through deep learning. It includes thousands of validated images, crucial for developing and testing algorithms that can identify and diagnose medical conditions from OCT and Chest X-Ray images, thus enhancing the accuracy and efficiency of medical diagnostics.The readme file in the dataset zip gives a detailed information on how to set up the data provided 
 
@@ -24,4 +26,17 @@ i. Explore and Implement Deep Learning Architectures.Investigate and apply vario
 ii. Train the Selected Model.Use the prepared dataset to train the deep learning model, employing techniques like to improve generalization and prevent overfitting.
 
 iii. Evaluate Model Performance.Assess the trained model using metrics such as accuracy, sensitivity, specificity, and area under the receiver operating characteristic (ROC) curve to validate its effectiveness in detecting pneumonia.
+
+
+# **METRIC OF SUCCESS**
+
+The performance of the models will be evaluated using the following metrics:
+
+1. Loss: This metric measures the error between the predicted values and the actual values. Lower loss indicates a better fitting model. We will use the test loss to evaluate the model's ability to generalize to new data.
+
+
+2. Accuracy: This metric indicates the proportion of correctly classified instances out of the total instances. Higher accuracy indicates better model performance in terms of classification correctness.
+
+
+3. Precision: This metric measures the accuracy of the positive predictions. It is the ratio of true positive predictions to the total positive predictions. Higher precision indicates that the model has a lower false positive rate.
 
