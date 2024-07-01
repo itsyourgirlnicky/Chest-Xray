@@ -38,5 +38,4 @@ The performance of the models will be evaluated using the following metrics:
 2. Accuracy: This metric indicates the proportion of correctly classified instances out of the total instances. Higher accuracy indicates better model performance in terms of classification correctness.
 
 
-3. Precision: This metric measures the accuracy of the positive predictions. It is the ratio of true positive predictions to the total positive predictions. Higher precision indicates that the model has a lower false positive rate.
 
