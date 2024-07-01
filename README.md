@@ -25,3 +25,17 @@ ii. Train the Selected Model.Use the prepared dataset to train the deep learning
 
 iii. Evaluate Model Performance.Assess the trained model using metrics such as accuracy, sensitivity, specificity, and area under the receiver operating characteristic (ROC) curve to validate its effectiveness in detecting pneumonia.
 
+![image](https://github.com/itsyourgirlnicky/Chest-Xray/assets/74757320/bd475996-d2e8-4141-aab8-bd0d8a372c18)
+
+# **METRIC OF SUCCESS**
+
+The performance of the models will be evaluated using the following metrics:
+
+1. Loss: This metric measures the error between the predicted values and the actual values. Lower loss indicates a better fitting model. We will use the test loss to evaluate the model's ability to generalize to new data.
+
+
+2. Accuracy: This metric indicates the proportion of correctly classified instances out of the total instances. Higher accuracy indicates better model performance in terms of classification correctness.
+
+
+3. Precision: This metric measures the accuracy of the positive predictions. It is the ratio of true positive predictions to the total positive predictions. Higher precision indicates that the model has a lower false positive rate.
+
